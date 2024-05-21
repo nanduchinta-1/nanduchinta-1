@@ -1,4 +1,4 @@
-# Profile Readme
+# Nandu Chinta
 
 ## Introduction
 Hi, My name is <bold>Nandu Chinta</bold>.I'm from Illinois institute of Technology studying Master in Computer Science. I'm a data analyst with a passion for extracting insights from complex datasets.
